@@ -1,0 +1,18 @@
+# Plugin by: Lazinq
+
+reload:
+  message:
+    - "&l&6Reloaded the plugin!"
+
+# Custom placeholders: $Player, $Cooldown
+cooldown:
+  time: 15
+  message:
+    - 'You are still on cooldown for &6$Cooldown &fseconds!'
+
+# Custom placeholders: $Player, $World, $Z, $Y, $Z, $Reason, $Time
+death:
+  message:
+    - '&f$Player&6 died at &f$World&6, &f$X&6, &f$Y&6, &f$Z&6 due to &f$Reason&6
+    at &f$Time&6!'
+  maximumMessageAmount: 3

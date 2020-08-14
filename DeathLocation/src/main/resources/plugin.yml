@@ -1,0 +1,8 @@
+name: DeathLocation
+version: 1.0
+api-version: 1.16
+author: Lazinq
+main: me.Lazinq.DeathLocation.DeathLocation
+
+commands:
+  dp:
